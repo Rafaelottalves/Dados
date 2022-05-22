@@ -1,0 +1,121 @@
+- Elementos Css -
+
+background-color: ; (background-color): Cor de Fundo
+
+color: ; (color): Cor da Letra
+
+font-family: ; (font-family): Fonte do Texto
+
+text-align: ; (text-align): Alinhamento do Texto
+
+font-size: ; (font-size): Tamanho da Fonte
+
+text-decoration: ; (text-decoration): Decoração do Texto
+
+background-image: linear-gradient( ); (linear-gradient): Cor de Fundo Degrade
+
+background-image: radial-gradient( ); (radial-gradient): Cor de Fundo Degrade
+
+background-attachment: ; (background-attachment): Tipo do Fundo
+
+height: ; (height): Altura
+
+width: ; (width): Largura
+
+font-weight: ; (font-weight): Peso da Fonte
+
+font-style: ; (font-style): Estilo da Fonte
+
+text-indent: ; (text-indent): Indentação do Texto
+
+display: ; (display): Como Vai Aparecer na Tela
+
+content: ; (content): Conteudo
+
+border: ; (border): Borda
+
+border-width: ; (border-width): Largura da Borda
+
+border-style: ; (border-style): Estilo da Borda
+
+border-color: ; (border-color): Cor da Borda
+
+border-top: ; (border-top): Borda de Cima
+
+border-right: ; (border-right): Borda da Direita
+
+border-bottom: ; (border-bottom): Borda de baixo
+
+border-left: ; (border-left): Borda da Esquerda
+
+padding: ; (padding): Preenchimento
+
+padding-top: ; (padding-top): Preenchimento de Cima
+
+padding-right: ; (padding-right): Preenchimento da Direita
+
+padding-bottom: ; (padding-bottom): Preenchimento de Baixo
+
+padding-left: ; (padding-left): Preenchimento da esquerda
+
+margin: ; (margin): Margem
+
+margin-top: ; (margin-top): Margem de Cima
+
+margin-right: ; (margin-right): Margem da Direita
+
+margin-bottom: ; (margin-bottom): Margem de Baixo
+
+margin-left: ; (margin-left): Margem da Esquerda
+
+outline: ; (outline): Linha
+
+outline-width: ; (outline-width): Largura da Linha
+
+outline-style: ; (outline-style): Estilo da Linha
+
+outline-color: ; (outline-color): Cor da Linha
+
+box-shadow: ; (box-shadow): Sombra da Caixa
+
+text-shadow: ; (text-shadow): Sombra no Texto
+
+border-radius: ; (border-radius): Arredondamento da Borda
+
+border-top-right-radius: ; (border-top-right-radius): Arredondamento da Borda do Topo Direito
+
+border-top-left-radius: ; (border-top-left-radius): Arredondamento da Borda do Topo Esquerdo
+
+border-bottom-right-radius: ; (border-bottom-right-radius): Arredondamento da Borda em Baixo Direita
+
+border-bottom-left-radius: ; (border-bottom-left-radius): Arredondamento da Borda em Baixo Esquerda
+
+border-image-source: url( ); (border-image-source): Borda Personalizada
+
+border-image-slice: ; (border-image-slice): Fatia a Borda
+
+border-image-repeat: ; (border-image-repeat): Repetição da Borda
+
+max-width: ; (max-width): Largura Maxima
+
+min-width: ; (min-width): Largura Minima
+
+max-height: ; (max-height): Altura Maxima
+
+min-height: ; (min-height): Altura Minima
+
+transition-duration: ; (transition-duration): Duração da Transição
+
+line-height: ; (line-height): Altura Entre as Linhas
+
+list-style-position: ; (list-style-position): Posição dos Elementos da Lista
+
+list-style-type: ; (list-style-type): Estilo dos Elementos da Lista
+
+columns: ; (columns): Colunas
+
+position: ; (position): Posição
+
+top: ; (top): Distancia do Topo
+
+left: ; (left): Distancia da Esquerda

@@ -1,0 +1,107 @@
+- Tags HTML -
+
+<body> </body> (body): Corpo da Pagina
+
+<title> </title> (title): Titulo da Pagina
+
+<p> </p> (p): Parágrafo
+
+<h1> </h1> (h1): Titulo de Nivel 1
+
+<h2> </h2> (h2): Titulo de Nivel 2
+
+<h3> </h3> (h3): Titulo de Nivel 3
+
+<h4> </h4> (h4): Titulo de Nivel 4
+
+<h5> </h5> (h5): Titulo de Nivel 5
+
+<h6> </h6> (h6): Titulo de Nivel 6
+
+<br> (br): Quebra de Linha
+
+<hr> (hr): Linha Horizontal
+
+<!--  --> : Comentario
+
+<picture> </picture> (picture): Varias Imagens / Responsivo
+
+<source media="(max-width: )" srcset=" "> (source: media): Imagem Responsiva
+
+<img src=" " alt=" "> (img): Imagem
+
+link: favicon : Favicon
+
+<strong> </strong> (strong): Destaque
+
+<em> </em> (em): Italico
+
+<mark> </mark> (mark): Marca Texto
+
+<small> </small> (small): Texto Pequeno
+
+<del> </del> (del): Texto Deletado
+
+<ins> </ins> (ins): Texto Destacado
+
+<sup> </sup> (sup): Texto / Numero Menor em Cima
+
+<sub> </sub> (sub): Texto / Numero Menor em Baixo
+
+<code> </code> (code): Texto Mono-Espaçado
+
+<pre> </pre> (pre): Texto Literal
+
+<q> </q> (q): Entre Aspas / Citações
+
+<blockquote> </blockquote> (blockquote): Citações Completas
+
+<abbr title=" "> </abbr> (abbr): Colocar Significado / Sigla
+
+<bdo> </bdo> (bdo): Texto Invertido
+
+<ol> </ol> (ol): Listas Ordenadas
+
+<ul> </ul> (ul): Listas Não Ordenadas
+
+<li> </li> (li): Itens da Lista
+
+<dl> </dl> (dl): Lista de Definição
+
+<dt> </dt> (dt): Termo
+
+<dd> </dd> (dd): Descrição
+
+<a href=" " target=" " rel=" "> </a> (a): Link
+
+<audio src=" " controls> </audio> (audio): Gera um Audio
+
+<audio controls> </audio> : Audio de Tipos
+
+<source src=" " type=" "> (source: src): Caminho e Tipo do Audio
+
+<video src=" " width=" " height=" " poster=" " controls> </video> (video): Gera um Video
+
+<video width=" " height=" " poster=" " controls> : Video de Tipos
+
+<source src=" " type=" "> (source: src): Caminho e Tipo do Video
+
+<header> </header> (header): Cabeçalho
+
+ <main> </main> (main): Conteudo Principal
+
+<footer> </footer> (footer): Rodapé
+
+<nav> </nav> (nav): Menu / Links de Navegação
+
+<section> </section> (section): Seção
+
+<article> </article> (article): Artigo
+
+<aside> </aside> (aside): Conteúdo Periférico
+
+<div> </div> (div): Caixa
+
+<span> </span> (span): Seção
+
+<var> </var> (var): Define uma Varialvel
