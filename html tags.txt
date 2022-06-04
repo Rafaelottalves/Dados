@@ -30,6 +30,10 @@
 
 <img src=" " alt=" "> (img): Imagem
 
+<figcaption>  </figcaption> (figcaption): Legenda da imagem
+
+<figure>  </figure> (figure): permitir legendas nas imagens
+
 link: favicon : Favicon
 
 <strong> </strong> (strong): Destaque
@@ -105,3 +109,5 @@ link: favicon : Favicon
 <span> </span> (span): Seção
 
 <var> </var> (var): Define uma Varialvel
+
+*NÃO ESQUECER DE ADICIONAR AS NOVAS TAGS DE TABELAS*
