@@ -119,3 +119,5 @@ position: ; (position): Posição
 top: ; (top): Distancia do Topo
 
 left: ; (left): Distancia da Esquerda
+
+opacity: ; (opacity): opacidade
