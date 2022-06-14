@@ -28,4 +28,8 @@ cuidado com imagens, ela pode distorcer quando usar flex-box. Flex-box tenta faz
 
 o flex-box ao inves de trabalhar com tamanhos fixos, ele trabalha com expaços e proporcoes, fazendo o calculo sozinho, *pega o que tem livre e destribui pra mim*
 
+cascata
+herança
+especificidade
 
+!important
