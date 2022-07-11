@@ -121,3 +121,8 @@ top: ; (top): Distancia do Topo
 left: ; (left): Distancia da Esquerda
 
 opacity: ; (opacity): opacidade
+
+white-space:  ; (white-space): comportamento dos espaços em branco
+
+text-overflow:  ; (text-overflow): comportamento do conteudo que ultrapassou o container
+
