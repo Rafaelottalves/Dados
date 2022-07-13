@@ -1,0 +1,33 @@
+Precisa ter sentido semantico???
+O elemento que estou criando precisa ter sentido semantico???
+
+se pergunte isso toda vez que for declara um novo container
+
+____________________________________________________________________________
+
+Caso queira testar a acessibilidade (leitor de tela)
+
+baixe os seguintes programas:
+jaws software
+nvda
+voice over macbook
+
+____________________________________________________________________________
+
+Acessibilidade web (nivel de design até nivel de codigo)
+
+usa e abusa dos valores que temos na web para descrever conteudo eles são muito importantes
+
+____________________________________________________________________________
+
+https://whatwg.org/
+
+____________________________________________________________________________
+
+<hgroup> </hgroup> - cabeçalhos de varios niveis????? (experimental)
+
+____________________________________________________________________________
+
+cuidado ao não remover valores dentro de tags/elementos sem saber o que significa, 
+esses valores podem dar mais contexto/significado pro elemento
+____________________________________________________________________________
