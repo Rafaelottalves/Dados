@@ -110,4 +110,8 @@ link: favicon : Favicon
 
 <var> </var> (var): Define uma Varialvel
 
+<details> </details> (details):
+
+<summary> </summary> (sumary):
+
 *NÃO ESQUECER DE ADICIONAR AS NOVAS TAGS DE TABELAS*
