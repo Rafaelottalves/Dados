@@ -1,4 +1,4 @@
-nome: github-token
-90 dias
+nome: token-github
+30 dias
 
-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
+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
