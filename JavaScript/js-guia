@@ -3,20 +3,13 @@
 
 Javascript Fundamental: Variaveis - Dados - Operadores
 Logica Javascript: Condições - Repetições - Listas
-Javascript Front-End: DOM
 Javascript Funcional: Programação Funcional - Funções
-
-
-
-
-
+Javascript Front-End: DOM
 
 
 fundamentos do javascript: historia, como começou, pra que serve etc
 logica javascript: variaveis, dados, operadores, condições, repetições, arrays
 javascript funcional
-
-
 
 
 Javascript Basico:
@@ -30,10 +23,10 @@ Repetições - while, do while, for
 listas - arrays,
 
 Javascript Front-End:
-DOM, 
+DOM, comandos
 
 Javascript Funcional:
-Programação funcional, 
+Programação funcional, 	
 
 
 var, let e const | for of/in | this. | operador spread/rest
@@ -47,7 +40,7 @@ json
 ajax
 nodeJs
 
-Diretiva | .slice | .concat | new
+foreach | Diretiva | .slice | .concat | new
 
 
 basico javascript
@@ -56,3 +49,7 @@ logica de programação javascript
 javascript funcional
 javascript programação orientada a objetos
 listas (arrays, objetos)
+
+estudos especificos | cursos | cev prox. passo | livros | MDN javascript |
+
+amanha escolher um desses jeitos pra estudar, de volta a progressao
