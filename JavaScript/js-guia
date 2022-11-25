@@ -40,7 +40,7 @@ json
 ajax
 nodeJs
 
-foreach | Diretiva | .slice | .concat | new
+foreach | Diretiva | .slice | .concat | new | cdn
 
 
 basico javascript
