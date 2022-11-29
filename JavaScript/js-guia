@@ -40,7 +40,7 @@ json
 ajax
 nodeJs
 
-foreach | Diretiva | .slice | .concat | new | cdn
+foreach | Diretiva | .slice | .concat | new | cdn | includes() | async/await | substring() | construtor(a) | cadeia de prototipos
 
 
 basico javascript
@@ -54,4 +54,4 @@ estudos especificos | cursos | cev prox. passo | livros | MDN javascript | outro
 
 amanha escolher um desses jeitos pra estudar, de volta a progressao
 
-terminar cev prox. passo -> ver o que faltou (outros conceitos(classes, POO etc)) -> cursos -> estudos especificos -> comando por comando ->
+terminar cev prox. passo -> ver o que faltou (outros conceitos(classes, POO etc)) -> cursos -> estudos especificos -> comando por comando -> !importante -> ( https://www.youtube.com/watch?v=ckfVA_ikFh4&ab_channel=Mango )
