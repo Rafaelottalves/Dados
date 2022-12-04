@@ -40,7 +40,7 @@ json
 ajax
 nodeJs
 
-foreach | Diretiva | .slice | .concat | new | cdn | includes() | async/await | substring() | construtor(a) | cadeia de prototipos
+foreach | Diretiva | .slice | .concat | new | cdn | includes() | async/await | substring() | construtor(a) | cadeia de prototipos | debugger
 
 
 basico javascript
