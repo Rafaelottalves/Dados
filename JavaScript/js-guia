@@ -7,11 +7,6 @@ Javascript Funcional: Programação Funcional - Funções
 Javascript Front-End: DOM
 
 
-fundamentos do javascript: historia, como começou, pra que serve etc
-logica javascript: variaveis, dados, operadores, condições, repetições, arrays
-javascript funcional
-
-
 Javascript Basico:
 Variaveis - Tipos primitivos, Data types
 Dados - Tratamento de dados
@@ -28,21 +23,6 @@ DOM, comandos
 Javascript Funcional:
 Programação funcional, 	
 
-
-var, let e const | for of/in | this. | operador spread/rest
-
-
-
-objetos
-modularização
-RegEx
-json
-ajax
-nodeJs
-
-foreach | Diretiva | .slice | .concat | new | cdn | includes() | async/await | substring() | construtor(a) | cadeia de prototipos | debugger
-
-
 basico javascript
 fundamental javascript
 logica de programação javascript
@@ -50,14 +30,39 @@ javascript funcional
 javascript programação orientada a objetos
 listas (arrays, objetos)
 
+________________________________________________________
+
+objetos
+modularização
+RegEx
+json
+ajax
+nodeJs
+________________________________________________________
+
+foreach | Diretiva | .slice | .concat | new | cdn | includes() | async/await | substring() | construtor(a) | cadeia de prototipos | debugger
+
+________________________________________________________
+
 estudos especificos | cursos | cev prox. passo | livros | MDN javascript | outros conceitos
 
-amanha escolher um desses jeitos pra estudar, de volta a progressao
+terminar cev proxs. passo|O| -> ver o que faltou (outros conceitos(classes, POO etc))|X| -> cursos -> estudos especificos -> comando por comando -> Json? -> !importante -> ( https://www.youtube.com/watch?v=ckfVA_ikFh4&ab_channel=Mango )
 
-terminar cev prox. passo -> ver o que faltou (outros conceitos(classes, POO etc)) -> cursos -> estudos especificos -> comando por comando -> !importante -> ( https://www.youtube.com/watch?v=ckfVA_ikFh4&ab_channel=Mango )
+_________________________________________________________
 
 elementos do javascript -> debug etc... -> Explorar mais o vscode
 
 API? frameworks?
 estudar erros do javascript?
-split() - slice() - join() ?? lambda? proc?
+split() - slice() - join() ?? lambda? proc? .parse()? .open('','')? .send()? fetch('')-html-? .then? .name? throw? Error('')? throw new Error('')? herança prototipal da linguagem? sintax sugar?
+
+---------------------------------------------------------
+estrategia: primeiro começar a povoar minhas redes sociais, depois meu github, depois fazer meu site portfolio e por ultimo minha conta no linkedin
+
+fazer projetos pras redes sociais e github como jogos, sites, etc...
+---------------------------------------------------------
+
+
+
+
+
