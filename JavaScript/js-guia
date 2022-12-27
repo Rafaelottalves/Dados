@@ -69,3 +69,19 @@ depois de POO vamos vasculhar pra ver se não achamos nada nesse estilo (classes
 manipulação de tabela
 manipulação de ...
 Array.isArray() - verifica se é um array
+instanceof
+arguments
+.call()
+.apply()
+.bind()
+if("propriedade" in objeto)
+if(indice in array)
+.hasOwnProperty("propriedade")
+.propertyIsEnumerable("propriedade")
+Object.defineProperty(objeto, propriedade, {configuração})
+
+
+
+
+
+
