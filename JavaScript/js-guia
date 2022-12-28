@@ -57,7 +57,7 @@ estudar erros do javascript?
 split() - slice() - join() ?? lambda? proc? .parse()? .open('','')? .send()? fetch('')-html-? .then? .name? throw? Error('')? throw new Error('')? herança prototipal da linguagem? sintax sugar?
 
 ---------------------------------------------------------
-estrategia: primeiro começar a povoar minhas redes sociais, depois meu github, depois fazer meu site portfolio e por ultimo minha conta no linkedin
+estrategia: primeiro começar a povoar minhas redes sociais e github com projetos, demonstrações etc..., depois fazer meu site portfolio e por ultimo minha conta no linkedin
 
 fazer projetos pras redes sociais e github como jogos, sites, etc...
 ---------------------------------------------------------
@@ -79,7 +79,7 @@ if(indice in array)
 .hasOwnProperty("propriedade")
 .propertyIsEnumerable("propriedade")
 Object.defineProperty(objeto, propriedade, {configuração})
-
+.some()
 
 
 
