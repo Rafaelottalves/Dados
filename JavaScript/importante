@@ -1,0 +1,60 @@
+foreach | Diretiva | .slice | .concat | new | cdn | includes() | async/await | substring() | construtor(a) | cadeia de prototipos | debugger
+_________________________________________________________
+
+Comandos e outras coisas pra aprender:
+
+elementos do javascript -> debug etc... -> Explorar mais o vscode
+
+API? frameworks?
+estudar erros do javascript?
+split() - slice() - join() ?? lambda? proc? .parse()? .open('','')? .send()? fetch('')-html-? .then? .name? throw? Error('')? throw new Error('')? herança prototipal da linguagem? sintax sugar?
+_________________________________________________________
+
+estrategia: primeiro começar a povoar minhas redes sociais e github com projetos, demonstrações etc..., depois fazer meu site portfolio e por ultimo minha conta no linkedin
+
+fazer projetos pras redes sociais e github como jogos, sites, etc...
+_________________________________________________________
+
+USAR <button> AO INVVÉS DE input button: button É MAIS SEMANTICO E FACIL DE ESTILIZAR
+_________________________________________________________
+
+depois de POO vamos vasculhar pra ver se não achamos nada nesse estilo (classes,Poo), se não achar vamos ver os metodos das coisas (metodos de função, classe, array, objeto,regex etc.)
+_________________________________________________________
+
+manipulação de tabela
+manipulação de ...
+Array.isArray() - verifica se é um array
+instanceof
+arguments
+if(indice in array)
+.some()
+pesquisar sobre paradigmas
+API
+Object.create()
+_________________________________________________________
+
+herança prototipal | como herança clássica tem sido abordada pela comunidade javascript | Design Patterns | 
+_________________________________________________________
+
+marcar os comandos gerais
+_________________________________________________________
+expressao regular + função + grupos == Muito Poder
+
+comentar o codigo - switch - grid - while -
+_________________________________________________________
+
+formatacao unicode para o javascript??
+
+erros?? slice!
+_________________________________________________________
+metodo dentro da classe - classe diferente?
+_________________________________________________________
+
+Quando for estudar ferramentas do css-html estudar CANVA DO HTML tambem e acessibilidade*/
+
+clone twitter - escrever msgs, postar etc
+pesquisar sobre paradigmas
+_________________________________________________________
+
+
+

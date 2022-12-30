@@ -1,6 +1,3 @@
--- ATÉ ONDE ESTUDAMOS --
-
-
 Javascript Fundamental: Variaveis - Dados - Operadores
 Logica Javascript: Condições - Repetições - Listas
 Javascript Funcional: Programação Funcional - Funções
@@ -40,47 +37,10 @@ ajax
 nodeJs
 ________________________________________________________
 
-foreach | Diretiva | .slice | .concat | new | cdn | includes() | async/await | substring() | construtor(a) | cadeia de prototipos | debugger
-
-________________________________________________________
-
 estudos especificos | cursos | cev prox. passo | livros | MDN javascript | outros conceitos
 
 terminar cev proxs. passo|O| -> ver o que faltou (outros conceitos(classes, POO etc))|X| -> cursos -> estudos especificos -> comando por comando -> Json? -> !importante -> ( https://www.youtube.com/watch?v=ckfVA_ikFh4&ab_channel=Mango )
-
 _________________________________________________________
-
-elementos do javascript -> debug etc... -> Explorar mais o vscode
-
-API? frameworks?
-estudar erros do javascript?
-split() - slice() - join() ?? lambda? proc? .parse()? .open('','')? .send()? fetch('')-html-? .then? .name? throw? Error('')? throw new Error('')? herança prototipal da linguagem? sintax sugar?
-
----------------------------------------------------------
-estrategia: primeiro começar a povoar minhas redes sociais e github com projetos, demonstrações etc..., depois fazer meu site portfolio e por ultimo minha conta no linkedin
-
-fazer projetos pras redes sociais e github como jogos, sites, etc...
----------------------------------------------------------
-USAR <button> AO INVVÉS DE input button: button É MAIS SEMANTICO E FACIL DE ESTILIZAR
----------------------------------------------------------
-depois de POO vamos vasculhar pra ver se não achamos nada nesse estilo (classes,Poo), se não achar vamos ver os metodos das coisas (metodos de função, classe, array, objeto,regex etc.)
-
-
-manipulação de tabela
-manipulação de ...
-Array.isArray() - verifica se é um array
-instanceof
-arguments
-.call()
-.apply()
-.bind()
-if("propriedade" in objeto)
-if(indice in array)
-.hasOwnProperty("propriedade")
-.propertyIsEnumerable("propriedade")
-Object.defineProperty(objeto, propriedade, {configuração})
-.some()
-
 
 
 
