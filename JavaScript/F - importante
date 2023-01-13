@@ -63,7 +63,8 @@ Estudar: substring - charAt - funções construtoras - .has()
 quando terminarmos os estudos de javascript: ver como as coisas são feitas, tentar replicar vendo, sem ver, depois de um tempo (pra esquecer) (scrolar e as coisas irem se mechendo, aparecendo, jogos etc...)
 
 .select() - setSelectionRange()
-
+.loop = 
+timestemp (Date.now() etc.)
 
 
 
