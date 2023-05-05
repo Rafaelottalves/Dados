@@ -33,3 +33,36 @@ herança
 especificidade
 
 !important
+-------------------------------------------------------------------
+          css e html
+
+atributo data-   (no html)
+
+
+[ ] - brackets (no css)
+serve pra capturar atributos no css? atributos data- ou todos os tipo?
+ex1: [atributo] { estilo: css; }
+ex2: [atributo="valor"] { estilo: css; }
+
+
+translate3d( ) - tem mais performance que o translate? como funciona?
+
+offset (importante)
+
+attr() - css
+
+tabindex - atributo
+
+<!-- css - clear, scroll / html - data-,   -->
+<!-- depois de terminar dnv html - css ir pro ajax? -->
+
+Quando for estudar ferramentas do css-html estudar CANVA DO HTML tambem e acessibilidade*/
+
+-------------------------------------------------------------------
+Tailwind CSS
+
+
+
+
+
+
